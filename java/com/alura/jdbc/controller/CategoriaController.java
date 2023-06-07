@@ -7,6 +7,7 @@ public class CategoriaController {
 
 	public List<?> listar() {
 		// TODO
+        System.out.println("g");
 		return new ArrayList<>();
 	}
 
